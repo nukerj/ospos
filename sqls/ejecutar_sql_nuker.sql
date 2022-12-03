@@ -1,0 +1,1 @@
+ALTER TABLE `ospos_items` ADD FULLTEXT(`name`); 
